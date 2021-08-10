@@ -1,0 +1,11 @@
+# getDevInfo
+引入devInfo.js
+
+BrowserMatch为根对象，获取PC端当前用户的操作系统名称、及浏览器名称和版本
+
+  getBrowser（）获取浏览器名称及版本 例：{browser: "谷歌", version: "Chrome/75.0.3770.142"}
+  getDigits() 获取浏览器位数 例："64位"
+  getOS() 获取操作系统类型 例："Win7"
+
+#xiding.html
+吸顶式布局
